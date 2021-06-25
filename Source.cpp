@@ -13,5 +13,6 @@ int main() {
 
 	}
 	cout << "\nsalam pouya";
+	cout<<"\nsalamo kooft:))))";
 	return 0;
 }
