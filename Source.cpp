@@ -12,6 +12,6 @@ int main() {
 		else cout << "NO\n";
 
 	}
-
+	cout << "\nsalam pouya";
 	return 0;
 }
